@@ -1,0 +1,30 @@
+# Java
+target/
+*.class
+*.log
+*.iml
+*.ipr
+*.iws
+*.jar
+*.war
+*.ear
+*.zip
+
+# React
+node_modules/
+build/
+public/
+
+# Spring
+*.jks
+*.keystore
+
+# Eclipse
+.metadata/
+.settings/
+bin/
+.classpath
+.project
+
+# Maven
+target/
